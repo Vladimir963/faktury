@@ -1,0 +1,21 @@
+
+c
+java:S1854"ARemove this useless assignment to local variable "pricePerPiece".(óÎşÿÿÿÿ8²´„Ú€1
+\
+java:S1854":Remove this useless assignment to local variable "weight".(Ú¼¨øÿÿÿÿ8²´„Ú€1
+^
+java:S1854"<Remove this useless assignment to local variable "quantity".(À²™³ùÿÿÿÿ8³´„Ú€1
+Z
+java:S1854
+"8Remove this useless assignment to local variable "item".(ü–Ûüÿÿÿÿ8³´„Ú€1
+K
+java:S1481
+")Remove this unused "item" local variable.(ü–Ûüÿÿÿÿ8µ´„Ú€1
+O
+java:S1481"-Remove this unused "quantity" local variable.(À²™³ùÿÿÿÿ8¶´„Ú€1
+M
+java:S1481"+Remove this unused "weight" local variable.(Ú¼¨øÿÿÿÿ8·´„Ú€1
+T
+java:S1481"2Remove this unused "pricePerPiece" local variable.(óÎşÿÿÿÿ8º´„Ú€1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8¼´„Ú€1
