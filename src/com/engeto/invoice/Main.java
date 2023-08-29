@@ -14,7 +14,7 @@ public class Main {
         LocalDate datumFaktury = LocalDate.of(2022, 4, 7);
         datumFaktury = LocalDate.now();
 
-        //Dodělat časový interval slevy !!! if-now + kombinace datumů.
+        //Dodělat časový interval slevy !!! if-now + kombinace datumů..
 
         boolean isDiscounted = true;
         double totalWeight = quantity*weight;
